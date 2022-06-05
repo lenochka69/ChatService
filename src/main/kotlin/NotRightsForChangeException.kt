@@ -1,0 +1,1 @@
+class NotRightsForChangeException(message: String): RuntimeException(message)
